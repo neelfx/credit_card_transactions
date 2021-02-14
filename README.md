@@ -137,6 +137,8 @@ This model had the best overall results when a weight of 5 was applied to the da
 - Applying a more advance data science model such as neural networks to improve prediction.
 
 
+- Deploy model for potential hosts to use.
+
 
 ```python
 
